@@ -11,6 +11,6 @@ Editing and Compiling
 Double Click 'loop.bat', you will enter a loop: <BR>
   1) edit main.cs<BR>
   2) compile main.cs -> main.exe<BR>
-  3) if 2) succeeds, run main.eexe<BR>
+  3) if 2) succeeds, run main.exe<BR>
   4) repeat from 1)<BR>
 
