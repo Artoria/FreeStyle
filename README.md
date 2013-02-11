@@ -1,6 +1,6 @@
 FreeStyle
 =========
-This project shows a fashion how an RMVXA project could be editing while running.
+This project shows a fashion how an RMVXA project could be edited while running.
 
 Requirement
 ===
